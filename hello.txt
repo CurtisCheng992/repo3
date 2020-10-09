@@ -7,3 +7,7 @@ Helloworld
 
 00000000000000000
 88888888888888888
+
+add some content to hello.txt
+11111111111
+wwwwwww
